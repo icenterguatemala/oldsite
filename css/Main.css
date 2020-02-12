@@ -1,0 +1,98 @@
+﻿body {
+}
+
+h1 {
+    color: #d3494f !important;
+    font-weight:normal !important;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif !important;
+}
+
+h2 {
+    color: #d3494f !important;
+    font-weight:lighter !important;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif !important;
+}
+
+#myCarousel {
+	margin:0px 0px 10px 0px !important;
+}
+
+#Main {
+    margin: 60px 0px 0px 0px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif !important;
+}
+
+#Footer {
+    background: #bf6138 !important;
+}
+
+#iphone {
+	background:#FFFFFF;
+	background-image:url(../img/iphoneback.jpg);
+	height:600px;
+	color:#000000;
+	padding:150px 50px 150px 50px;
+	display:block;
+	background-attachment:fixed;
+	background-repeat: no-repeat;
+    border-radius: 0px;
+	text-align:center;
+}
+
+#macbook {
+	background:#FFFFFF;
+	background-image:url(../img/macbookback.jpg);
+	height:600px;
+	color:#000000;
+	padding:150px 50px 150px 50px;
+	display:block;
+	background-attachment:fixed;
+	background-repeat: no-repeat;
+    border-radius: 0px;
+	-webkit-transition: opacity 2s ease-in;
+    -moz-transition: opacity 2s ease-in;
+    -o-transition: opacity 2s ease-in;
+    -ms-transition: opacity 2s ease-in;
+    transition: opacity 2s ease-in;
+}
+
+#samsung {
+	background:#FFFFFF;
+	background-image:url(../img/samsungback.jpg);
+	height:600px;
+	color:#000000;
+	padding:150px 50px 150px 50px;
+	display:block;
+	background-attachment:fixed;
+	background-repeat: no-repeat;
+    border-radius: 0px;
+	text-align:right;
+}
+
+#nosotrossection {
+	background:#FFFFFF;
+	background-position:left;
+	height:600px;
+	color:#000000;
+	padding:150px 50px 150px 50px;
+	display:block;
+	background-attachment:scroll;
+	background-repeat: no-repeat;
+    border-radius: 0px;
+	text-align:right;
+}
+
+#nosotrossection2 {
+	background:#FFFFFF;
+	background-image:url(../img/deskback2.jpg);
+	background-position:right;
+	height:600px;
+	color:#000000;
+	padding:150px 50px 0px 50px;
+	margin:51px 0px 0px 0px;
+	display:block;
+	background-attachment:scroll;
+	background-repeat: no-repeat;
+    border-radius: 0px;
+	text-align:left;
+}

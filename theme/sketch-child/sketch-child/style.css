@@ -1,0 +1,8 @@
+/*   
+Theme Name: Sketch-child
+Description: A Child Theme of Sketch
+Template: Sketch
+*/
+@import url(../sketch/style.css);
+@import url(css/bootstrap-3.3.4.css);
+@import url(css/Main.css);
